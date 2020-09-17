@@ -2,7 +2,7 @@ Rest API for making pivot table by to parameters
 
 For to start
 
-"git clone https://github.com/OlegAryukov/moneytransfer.git" .
+"git clone https://github.com/OlegAryukov/PivotTable.git" .
 
 In project folder run mvn clean install to compile application and run tests
 
